@@ -1,0 +1,7 @@
+url_login: "https://test-stand.gb.ru/gateway/login"
+url_post: "https://test-stand.gb.ru/api/posts"
+username: "dasha87"
+password: "354282beb8"
+title: "Домашка 1"
+description: "Выполнена"
+content: "Проверяйте"
