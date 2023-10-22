@@ -1,0 +1,4 @@
+address: https://test-stand.gb.ru/
+# driver_path: chromedriver.exe
+browser: chrome
+sleep_time: 1
