@@ -1,0 +1,8 @@
+address: https://test-stand.gb.ru/login
+browser: chrome
+sleep_time: 5
+login: "dasha87"
+passwd: "354282beb8"
+name: "Ночевной Сергей"
+email: "funt_88@mail.ru"
+content: "Домашка 3 готова!"
