@@ -1,67 +1,73 @@
-2023-10-28 00:01:26 INFO ====== WebDriver manager ======
-2023-10-28 00:01:27 INFO Get LATEST chromedriver version for google-chrome
-2023-10-28 00:01:27 INFO Get LATEST chromedriver version for google-chrome
-2023-10-28 00:01:27 INFO Driver [C:\Users\Funt\.wdm\drivers\chromedriver\win64\118.0.5993.70\chromedriver-win32/chromedriver.exe] found in cache
-2023-10-28 00:01:28 INFO Test Starting
-2023-10-28 00:01:29 INFO Send 7 to element /html/body/div[1]/div[3]/div[1]/form/input[1]
-2023-10-28 00:01:29 INFO Send 7 to element /html/body/div[1]/div[3]/div[1]/form/input[2]
-2023-10-28 00:01:29 INFO Send 4 to element /html/body/div[1]/div[3]/div[1]/form/input[3]
-2023-10-28 00:01:29 INFO Click button
-2023-10-28 00:01:29 INFO We find text Isosceles in text field /html/body/div[1]/div[3]/div[2]
-2023-10-28 00:01:29 INFO Test Starting
-2023-10-28 00:01:29 INFO Send 5 to element /html/body/div[1]/div[3]/div[1]/form/input[1]
-2023-10-28 00:01:29 INFO Send 5 to element /html/body/div[1]/div[3]/div[1]/form/input[2]
-2023-10-28 00:01:29 INFO Send 5 to element /html/body/div[1]/div[3]/div[1]/form/input[3]
-2023-10-28 00:01:29 INFO Click button
-2023-10-28 00:01:29 INFO We find text Equilateral in text field /html/body/div[1]/div[3]/div[2]
-2023-10-28 00:01:29 INFO Test Starting
-2023-10-28 00:01:29 INFO Send 3 to element /html/body/div[1]/div[3]/div[1]/form/input[1]
-2023-10-28 00:01:30 INFO Send 4 to element /html/body/div[1]/div[3]/div[1]/form/input[2]
-2023-10-28 00:01:30 INFO Send 5 to element /html/body/div[1]/div[3]/div[1]/form/input[3]
-2023-10-28 00:01:30 INFO Click button
-2023-10-28 00:01:30 INFO We find text Scalene in text field /html/body/div[1]/div[3]/div[2]
-2023-10-28 00:01:30 INFO Test Starting
-2023-10-28 00:01:30 INFO Send 0 to element /html/body/div[1]/div[3]/div[1]/form/input[1]
-2023-10-28 00:01:30 INFO Send 0 to element /html/body/div[1]/div[3]/div[1]/form/input[2]
-2023-10-28 00:01:30 INFO Send 0 to element /html/body/div[1]/div[3]/div[1]/form/input[3]
-2023-10-28 00:01:30 INFO Click button
-2023-10-28 00:01:30 INFO We find text Error: Not a Triangle in text field /html/body/div[1]/div[3]/div[2]
-2023-10-28 00:01:30 INFO Test Starting
-2023-10-28 00:01:30 INFO Send -2 to element /html/body/div[1]/div[3]/div[1]/form/input[1]
-2023-10-28 00:01:31 INFO Send 3 to element /html/body/div[1]/div[3]/div[1]/form/input[2]
-2023-10-28 00:01:31 INFO Send 4 to element /html/body/div[1]/div[3]/div[1]/form/input[3]
-2023-10-28 00:01:31 INFO Click button
-2023-10-28 00:01:31 INFO We find text Error: Not a Triangle in text field /html/body/div[1]/div[3]/div[2]
-2023-10-28 00:01:31 INFO Test Starting
-2023-10-28 00:01:31 INFO Send 10 to element /html/body/div[1]/div[3]/div[1]/form/input[1]
-2023-10-28 00:01:31 INFO Send 20 to element /html/body/div[1]/div[3]/div[1]/form/input[2]
-2023-10-28 00:01:31 INFO Send 10 to element /html/body/div[1]/div[3]/div[1]/form/input[3]
-2023-10-28 00:01:31 INFO Click button
-2023-10-28 00:01:31 INFO We find text Error: Not a Triangle in text field /html/body/div[1]/div[3]/div[2]
-2023-10-28 00:01:31 INFO Test Starting
-2023-10-28 00:01:31 INFO Send aба to element /html/body/div[1]/div[3]/div[1]/form/input[1]
-2023-10-28 00:01:31 INFO Send 20 to element /html/body/div[1]/div[3]/div[1]/form/input[2]
-2023-10-28 00:01:31 INFO Send 10 to element /html/body/div[1]/div[3]/div[1]/form/input[3]
-2023-10-28 00:01:31 INFO Click button
-2023-10-28 00:01:31 INFO Test Starting
-2023-10-28 00:01:32 INFO Send 10 to element /html/body/div[1]/div[3]/div[1]/form/input[1]
-2023-10-28 00:01:32 INFO Send aба to element /html/body/div[1]/div[3]/div[1]/form/input[2]
-2023-10-28 00:01:32 INFO Send 10 to element /html/body/div[1]/div[3]/div[1]/form/input[3]
-2023-10-28 00:01:32 INFO Click button
-2023-10-28 00:01:32 INFO Test Starting
-2023-10-28 00:01:32 INFO Send 10 to element /html/body/div[1]/div[3]/div[1]/form/input[1]
-2023-10-28 00:01:32 INFO Send 20 to element /html/body/div[1]/div[3]/div[1]/form/input[2]
-2023-10-28 00:01:32 INFO Send aба to element /html/body/div[1]/div[3]/div[1]/form/input[3]
-2023-10-28 00:01:32 INFO Click button
-2023-10-28 00:01:32 INFO Test Starting
-2023-10-28 00:01:32 INFO Send 4294967295 to element /html/body/div[1]/div[3]/div[1]/form/input[1]
-2023-10-28 00:01:33 INFO Send 4294967295 to element /html/body/div[1]/div[3]/div[1]/form/input[2]
-2023-10-28 00:01:33 INFO Send 4294967000 to element /html/body/div[1]/div[3]/div[1]/form/input[3]
-2023-10-28 00:01:33 INFO Click button
-2023-10-28 00:01:33 INFO We find text Isosceles in text field /html/body/div[1]/div[3]/div[2]
-2023-10-28 00:01:33 INFO Test Starting
-2023-10-28 00:01:33 INFO Send <script>alert('XSS')</script> to element /html/body/div[1]/div[3]/div[1]/form/input[1]
-2023-10-28 00:01:33 INFO Send <script>alert('XSS')</script> to element /html/body/div[1]/div[3]/div[1]/form/input[2]
-2023-10-28 00:01:33 INFO Send <script>alert('XSS')</script> to element /html/body/div[1]/div[3]/div[1]/form/input[3]
-2023-10-28 00:01:33 INFO Click button
-2023-10-28 00:01:33 INFO We find text Error: Side 1 is not a Number in text field /html/body/div[1]/div[3]/div[2]
+2023-10-28 00:17:27 INFO ====== WebDriver manager ======
+2023-10-28 00:17:28 INFO Get LATEST chromedriver version for google-chrome
+2023-10-28 00:17:28 INFO Get LATEST chromedriver version for google-chrome
+2023-10-28 00:17:28 INFO Driver [C:\Users\Funt\.wdm\drivers\chromedriver\win64\118.0.5993.70\chromedriver-win32/chromedriver.exe] found in cache
+2023-10-28 00:17:29 INFO Test Starting
+2023-10-28 00:17:30 INFO Send 7 to element /html/body/div[1]/div[3]/div[1]/form/input[1]
+2023-10-28 00:17:30 INFO Send 7 to element /html/body/div[1]/div[3]/div[1]/form/input[2]
+2023-10-28 00:17:30 INFO Send 4 to element /html/body/div[1]/div[3]/div[1]/form/input[3]
+2023-10-28 00:17:30 INFO Click button
+2023-10-28 00:17:30 INFO We find text Isosceles in text field /html/body/div[1]/div[3]/div[2]
+2023-10-28 00:17:30 INFO Test Starting
+2023-10-28 00:17:30 INFO Send 5 to element /html/body/div[1]/div[3]/div[1]/form/input[1]
+2023-10-28 00:17:30 INFO Send 5 to element /html/body/div[1]/div[3]/div[1]/form/input[2]
+2023-10-28 00:17:30 INFO Send 5 to element /html/body/div[1]/div[3]/div[1]/form/input[3]
+2023-10-28 00:17:30 INFO Click button
+2023-10-28 00:17:30 INFO We find text Equilateral in text field /html/body/div[1]/div[3]/div[2]
+2023-10-28 00:17:30 INFO Test Starting
+2023-10-28 00:17:31 INFO Send 3 to element /html/body/div[1]/div[3]/div[1]/form/input[1]
+2023-10-28 00:17:31 INFO Send 4 to element /html/body/div[1]/div[3]/div[1]/form/input[2]
+2023-10-28 00:17:31 INFO Send 5 to element /html/body/div[1]/div[3]/div[1]/form/input[3]
+2023-10-28 00:17:31 INFO Click button
+2023-10-28 00:17:31 INFO We find text Scalene in text field /html/body/div[1]/div[3]/div[2]
+2023-10-28 00:17:31 INFO Test Starting
+2023-10-28 00:17:31 INFO Send 0 to element /html/body/div[1]/div[3]/div[1]/form/input[1]
+2023-10-28 00:17:31 INFO Send 0 to element /html/body/div[1]/div[3]/div[1]/form/input[2]
+2023-10-28 00:17:31 INFO Send 0 to element /html/body/div[1]/div[3]/div[1]/form/input[3]
+2023-10-28 00:17:31 INFO Click button
+2023-10-28 00:17:31 INFO We find text Error: Not a Triangle in text field /html/body/div[1]/div[3]/div[2]
+2023-10-28 00:17:31 INFO Test Starting
+2023-10-28 00:17:32 INFO Send -2 to element /html/body/div[1]/div[3]/div[1]/form/input[1]
+2023-10-28 00:17:32 INFO Send 3 to element /html/body/div[1]/div[3]/div[1]/form/input[2]
+2023-10-28 00:17:32 INFO Send 4 to element /html/body/div[1]/div[3]/div[1]/form/input[3]
+2023-10-28 00:17:32 INFO Click button
+2023-10-28 00:17:32 INFO We find text Error: Not a Triangle in text field /html/body/div[1]/div[3]/div[2]
+2023-10-28 00:17:32 INFO Test Starting
+2023-10-28 00:17:32 INFO Send 10 to element /html/body/div[1]/div[3]/div[1]/form/input[1]
+2023-10-28 00:17:32 INFO Send 20 to element /html/body/div[1]/div[3]/div[1]/form/input[2]
+2023-10-28 00:17:32 INFO Send 10 to element /html/body/div[1]/div[3]/div[1]/form/input[3]
+2023-10-28 00:17:32 INFO Click button
+2023-10-28 00:17:32 INFO We find text Error: Not a Triangle in text field /html/body/div[1]/div[3]/div[2]
+2023-10-28 00:17:32 INFO Test Starting
+2023-10-28 00:17:33 INFO Send aба to element /html/body/div[1]/div[3]/div[1]/form/input[1]
+2023-10-28 00:17:33 INFO Send 20 to element /html/body/div[1]/div[3]/div[1]/form/input[2]
+2023-10-28 00:17:33 INFO Send 10 to element /html/body/div[1]/div[3]/div[1]/form/input[3]
+2023-10-28 00:17:33 INFO Click button
+2023-10-28 00:17:33 INFO Test Starting
+2023-10-28 00:17:33 INFO Send 10 to element /html/body/div[1]/div[3]/div[1]/form/input[1]
+2023-10-28 00:17:33 INFO Send aба to element /html/body/div[1]/div[3]/div[1]/form/input[2]
+2023-10-28 00:17:33 INFO Send 10 to element /html/body/div[1]/div[3]/div[1]/form/input[3]
+2023-10-28 00:17:33 INFO Click button
+2023-10-28 00:17:33 INFO Test Starting
+2023-10-28 00:17:33 INFO Send 10 to element /html/body/div[1]/div[3]/div[1]/form/input[1]
+2023-10-28 00:17:34 INFO Send 20 to element /html/body/div[1]/div[3]/div[1]/form/input[2]
+2023-10-28 00:17:34 INFO Send aба to element /html/body/div[1]/div[3]/div[1]/form/input[3]
+2023-10-28 00:17:34 INFO Click button
+2023-10-28 00:17:34 INFO Test Starting
+2023-10-28 00:17:34 INFO Send 4294967295 to element /html/body/div[1]/div[3]/div[1]/form/input[1]
+2023-10-28 00:17:34 INFO Send 4294967295 to element /html/body/div[1]/div[3]/div[1]/form/input[2]
+2023-10-28 00:17:34 INFO Send 4294967000 to element /html/body/div[1]/div[3]/div[1]/form/input[3]
+2023-10-28 00:17:34 INFO Click button
+2023-10-28 00:17:34 INFO We find text Isosceles in text field /html/body/div[1]/div[3]/div[2]
+2023-10-28 00:17:34 INFO Test Starting
+2023-10-28 00:17:34 INFO Send [] to element /html/body/div[1]/div[3]/div[1]/form/input[1]
+2023-10-28 00:17:34 INFO Send [] to element /html/body/div[1]/div[3]/div[1]/form/input[2]
+2023-10-28 00:17:35 INFO Send [] to element /html/body/div[1]/div[3]/div[1]/form/input[3]
+2023-10-28 00:17:35 INFO Click button
+2023-10-28 00:17:35 INFO We find text Error: Side 1 is missing in text field /html/body/div[1]/div[3]/div[2]
+2023-10-28 00:17:35 INFO Test Starting
+2023-10-28 00:17:35 INFO Send <script>alert('XSS')</script> to element /html/body/div[1]/div[3]/div[1]/form/input[1]
+2023-10-28 00:17:35 INFO Send <script>alert('XSS')</script> to element /html/body/div[1]/div[3]/div[1]/form/input[2]
+2023-10-28 00:17:35 INFO Send <script>alert('XSS')</script> to element /html/body/div[1]/div[3]/div[1]/form/input[3]
+2023-10-28 00:17:35 INFO Click button
+2023-10-28 00:17:35 INFO We find text Error: Side 1 is not a Number in text field /html/body/div[1]/div[3]/div[2]

@@ -75,9 +75,9 @@ def test_4_5_6(browser, test_name, side_values):
 
 
 @pytest.mark.parametrize("test_name, side_values", [
-    ("test4", ["aба", 20, 10]),
-    ("test5", [10, "aба", 10]),
-    ("test6", [10, 20, "aба"])
+    ("test7", ["aба", 20, 10]),
+    ("test8", [10, "aба", 10]),
+    ("test9", [10, 20, "aба"])
 ])
 def test_7_8_9(browser, test_name, side_values):
     """
@@ -110,16 +110,16 @@ def test_10(browser):
     assert "isosceles" in testpage.get_text().lower(), "test FAILED"
 
 
-def test_12(browser):
+def test_11(browser):
     """
     Ввод пустых полей.
     """
     logging.info("Test Starting")
     testpage = OperationsHelper(browser)
     testpage.go_to_site()
-    testpage.enter_side1(testdata.get("test12")[0])
-    testpage.enter_side2(testdata.get("test12")[1])
-    testpage.enter_side3(testdata.get("test12")[2])
+    testpage.enter_side1(testdata.get("test11"))
+    testpage.enter_side2(testdata.get("test11"))
+    testpage.enter_side3(testdata.get("test11"))
     testpage.click_button()
     assert "error: side 1 is missing" in testpage.get_text().lower(), "test FAILED"
 

@@ -3,7 +3,6 @@ import pytest
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
-# Импорт EdgeDriverManager
 from webdriver_manager.microsoft import EdgeChromiumDriverManager
 
 with open("testdata.yaml", encoding="utf-8") as f:
