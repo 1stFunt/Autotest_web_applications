@@ -4,6 +4,9 @@ import logging
 
 
 class TestSearchLocators:
+    """
+    Класс, содержащий локаторы элементов страницы, используемых для поиска элементов.
+    """
     LOCATOR_SIDE1_FIELD = (
         By.XPATH, """/html/body/div[1]/div[3]/div[1]/form/input[1]""")
     LOCATOR_SIDE2_FIELD = (
@@ -15,6 +18,11 @@ class TestSearchLocators:
 
 
 class OperationsHelper(BasePage):
+    """
+    Класс `OperationsHelper`, наследуется от класса `BasePage` и предоставляет методы 
+    для выполнения операций на веб-странице, такие как ввод данных и нажатие кнопок.
+    """
+
     def enter_side1(self, side):
         logging.info(
             f"Send {side} to element {TestSearchLocators.LOCATOR_SIDE1_FIELD[1]}")
