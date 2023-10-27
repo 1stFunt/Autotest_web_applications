@@ -3,11 +3,13 @@ import pytest
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from webdriver_manager.chrome import ChromeDriverManager
-from webdriver_manager.microsoft import EdgeChromiumDriverManager  # Импорт EdgeDriverManager
+# Импорт EdgeDriverManager
+from webdriver_manager.microsoft import EdgeChromiumDriverManager
 
 with open("testdata.yaml", encoding="utf-8") as f:
     testdata = yaml.safe_load(f)
     browser = testdata["browser"]
+
 
 @pytest.fixture(scope="session")
 def browser():
@@ -18,7 +20,8 @@ def browser():
     """
     if browser == "microsoft":
         # Использование Microsoft Edge
-        service = Service(executable_path=EdgeChromiumDriverManager().install())
+        service = Service(
+            executable_path=EdgeChromiumDriverManager().install())
         options = webdriver.EdgeOptions()
         driver = webdriver.Edge(service=service, options=options)
     else:

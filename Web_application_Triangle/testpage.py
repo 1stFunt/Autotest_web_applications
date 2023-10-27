@@ -11,7 +11,7 @@ class TestSearchLocators:
     LOCATOR_SIDE3_FIELD = (
         By.XPATH, """/html/body/div[1]/div[3]/div[1]/form/input[3]""")
     LOCATOR_BUTTON = (By.CSS_SELECTOR, """#identify-triangle-action""")
-    LOCATOR_TEXT_FIELD = (By.XPATH, """/html/body/div[1]/div[3]/div[2]""") 
+    LOCATOR_TEXT_FIELD = (By.XPATH, """/html/body/div[1]/div[3]/div[2]""")
 
 
 class OperationsHelper(BasePage):
