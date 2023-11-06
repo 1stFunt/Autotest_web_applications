@@ -1,0 +1,24 @@
+address: https://test-stand.gb.ru/login
+browser: chrome
+sleep_time: 3
+login: "dasha87"
+passwd: "354282beb8"
+
+name: "Сергей"
+email: "funt_88@mail.ru"
+content: "Whats up!"
+
+fromaddr: "funt_88@mail.ru"
+toaddr: "funt_88@mail.ru"
+fromaddr_passwd: "tCe5Z7Fe686P2HyvbnuY"
+file: "log.txt"
+letter_body: "Отчет о тестировании"
+
+title: "Домашка 4"
+description: "Выполнена"
+content: "Проверяйте"
+
+url: https://test-stand.gb.ru/gateway/login
+api_address: https://test-stand.gb.ru/api/posts
+address_post: https://test-stand.gb.ru/gateway/posts
+not_me_title: wow
