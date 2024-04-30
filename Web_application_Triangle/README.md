@@ -5,7 +5,7 @@
 ## Содержание
 - [Презентация (PDF)](https://github.com/1stFunt/Autotest_web_applications/blob/35b1660d8bcad037e6e165bb2e35bc00eb367a61/Web_application_Triangle/1_presentation.pdf)
 - [Дипломная работа (PDF)](https://github.com/1stFunt/Autotest_web_applications/blob/a8915d0af42a8fcfca3edd322c4274ae96459b14/Web_application_Triangle/2_project.pdf)
-- [Чек-лист (PDF)](https://github.com/1stFunt/Autotest_web_applications/blob/35b1660d8bcad037e6e165bb2e35bc00eb367a61/Web_application_Triangle/3_check-list.pdf)
+- [Чек-лист (PDF)](https://github.com/1stFunt/Autotest_web_applications/blob/93f51a0c8fea5aa27bafb739886e41060c591ebc/Web_application_Triangle/3_check-list.pdf)
 
 
 ## Файлы для автотестирования
