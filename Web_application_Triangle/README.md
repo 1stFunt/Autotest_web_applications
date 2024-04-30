@@ -1,12 +1,12 @@
-## Краткое описание
-Дипломный проект “Ручное и автоматизированное тестирование веб-приложения “Triangle”: исследовательский подход.”
+# Дипломный проект
+Тема: “Ручное и автоматизированное тестирование веб-приложения “Triangle”: исследовательский подход.”
 
-[Ссылка на приложение “Triangle”](https://testpages.eviltester.com/styled/apps/triangle/triangle001.html)
-## Содержание
+
+## Содержание репозитория
 - [Презентация (PDF)](https://github.com/1stFunt/Autotest_web_applications/blob/main/Web_application_Triangle/1_presentation.pdf)
 - [Дипломная работа (PDF)](https://github.com/1stFunt/Autotest_web_applications/blob/main/Web_application_Triangle/2_project.pdf)
 - [Чек-лист (PDF)](https://github.com/1stFunt/Autotest_web_applications/blob/main/Web_application_Triangle/3_check-list.pdf)
-
+- [Ссылка на приложение “Triangle”](https://testpages.eviltester.com/styled/apps/triangle/triangle001.html)
 
 ## Файлы для автотестирования
 Проект создан с использованием паттерна Page Object.
