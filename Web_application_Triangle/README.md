@@ -21,4 +21,4 @@
 [log.txt](https://github.com/1stFunt/Autotest_web_applications/blob/main/Web_application_Triangle/log.txt) - хранение логов.
 
 ## Обновлённые автотесты
-[New_triangle_autotests](https://github.com/1stFunt/New_triangle_autotests) - улучшенные автотесты для веб-приложения “Triangle”.
+[Refactoring_Triangle_autotests](https://github.com/1stFunt/Refactoring_Triangle_autotests) - улучшенные UI-автотесты для веб-приложения “Triangle”.
