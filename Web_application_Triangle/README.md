@@ -9,7 +9,7 @@
 - [Ссылка на приложение “Triangle”](https://testpages.eviltester.com/styled/apps/triangle/triangle001.html)
 
 ## Файлы для автотестирования
-Проект создан с использованием паттерна Page Object.
+Проект создан с использованием паттерна Page Object
 
 [BaseApp.py](https://github.com/1stFunt/Autotest_web_applications/blob/main/Web_application_Triangle/BaseApp.py) - файл содержит класс *BasePage*, представляющий базовую
 страницу для автотестов веб-приложения “Triangle” с описанием методов, которые можно будет вызвать через “help(BasePage)”  
